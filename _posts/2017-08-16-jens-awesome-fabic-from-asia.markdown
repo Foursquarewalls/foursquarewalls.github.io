@@ -2,7 +2,7 @@
 layout: post
 title:  "Jens awesome fabic from asia!"
 date:   2015-10-06 15:39:40
-preview: https://www.flickr.com/photos/kev_bite/35004749331/sizes/n/
+preview: https://c1.staticflickr.com/5/4246/35004749331_60c1c7a700_n.jpg
 ---
 
 # Awesome
