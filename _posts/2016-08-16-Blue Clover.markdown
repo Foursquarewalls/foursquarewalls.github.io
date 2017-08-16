@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue Clover"
 date:   2015-10-06 15:39:40
-preview: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/20479691_10154583002271050_4035489175934588654_n.jpg?oh=d681eefe7a61aeefe16b63326b642e4e&oe=5A323F71
+preview: https://c1.staticflickr.com/5/4319/36269370526_38cb45ec7a_n.jpg
 ---
 
 # Pattern and fabric
