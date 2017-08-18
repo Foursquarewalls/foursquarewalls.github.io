@@ -1,6 +1,6 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
+'# Site settings
+title: Jen's makes
+email: jen_sly3@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about my makes, reviewing patterns and fabrics.
 baseurl: "/" # the subpath of your site, e.g. /blog/
