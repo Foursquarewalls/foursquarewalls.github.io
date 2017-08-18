@@ -7,11 +7,11 @@ preview: https://c1.staticflickr.com/5/4319/36269370526_38cb45ec7a_n.jpg
 
 # Pattern and fabric
 
-I used the Papercut Clover dress pattern, (a highly recommended pattern) and cut a size xs. The fabic I used was a deep blue Atelier Brunette viscose with a nice drape. The contrast v inset was from a piece of black linen from my scrap bag.
+I used the Papercut Clover dress pattern, (a highly recommended pattern) and cut a size xs. The fabic I used was a deep blue Atelier Brunette viscose with an amazing drape. The contrast v inset was from a piece of black linen from my scrap bag.
 
 # The making
 
-This dress came together very quickly, being such a simple pattern and very easy to follow. It was completed in a few hours, so a pretty satisfying make. I omitted sewing the tassel belt, instead just wearing it with a normal waisted belt.
+Being such a simple pattern and very easy to follow this dress came together very quickly. Whipped up in a few hours, so a pretty satisfying make. No issues with the pattern, easy-to-follow instructions, love how the instructions fold into a neat little booklet. I omitted sewing the tassel belt, instead just wear it with a normal waisted belt.
 
 ![alt text](https://c1.staticflickr.com/5/4327/35873082972_08d0096dc5_c.jpg "a full view of the drape in the skirt")
  
